@@ -1,2 +1,2 @@
 # ResultPatternApp
-Aplicação demostração uso do Result Pattern com utilizando recursos atuais do C# e .NET
+Aplicação para demostrar o uso do Result Pattern, utilizando os recursos mais atuais do C# e .NET.
